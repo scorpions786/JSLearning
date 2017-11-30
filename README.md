@@ -1,2 +1,7 @@
 # JSLearning
-Just for tests
+- [  ] react ?
+- [  ] angular ?
+- [  ] Vue ?
+- others ______ ?
+
+or suggest other areas  
